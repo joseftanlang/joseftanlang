@@ -1,0 +1,40 @@
+print('Hello, welcome to trivia!' )
+ans = input('Are you ready to play (yes/no): ')
+score = 0
+total_q = 4
+if ans.lower() == 'yes':
+    ans = input('1. What is a programming start with p? ')
+    if ans.lower() == 'python':
+        score += 1
+        print('correct')
+    else:
+        print('Incorrect')
+
+    ans = input('2. What is python? ')
+    if ans.lower() == 'a programming language':
+        score += 1
+        print('correct')
+    else:
+        print('Incorrect')
+
+    ans = input('3. What is 5 + 5 =  ? ')
+    if ans == '10':
+        score += 1
+        print('correct')
+    else:
+        print('Incorrect')
+
+    ans = input('4. What programming language in C ? ')
+    if ans.upper() == 'C++' or ans.upper() == 'C#':
+        score += 1
+        print('correct')
+    else:
+        print('Incorrect')
+
+    print('Thank you for playing, you got',score, "question correct."
+     )
+    mark = (score/total_q) *100
+
+    print("mark: ", str(mark) + '%')
+    
+print('Goodbye')
