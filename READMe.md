@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
 <style>
 
@@ -203,14 +203,10 @@ body{
 <div class="particle" style="left:70%;bottom:-10px;animation-delay:1s"></div>
 <div class="particle" style="left:85%;bottom:-10px;animation-delay:3s"></div>
 
-</div>
+</div> -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=joseftanlang&color=blue&style=flat-square)](https://github.com/joseftanlang)
 
 ## 🚀 Passionate Embedded & Web Developer | Tech Enthusiast | Lifelong Learner
-
-
-
 🌟 **Welcome!** I'm Josef, a curious and driven **Computer Engineering student** with a zest for turning ideas into reality. I thrive on exploring the exciting realms of **embedded systems**—designing hardware-software symphonies that solve real-world challenges. At the same time, I love crafting sleek, dynamic **web applications** that deliver seamless user experiences.
 
 My journey is fueled by a passion for innovation, a love for learning, and a desire to make a positive impact through technology. Whether it's tinkering with microcontrollers or building intuitive interfaces, I bring energy and creativity to every project. Let's connect, collaborate, and create something amazing together!
@@ -275,6 +271,7 @@ My journey is fueled by a passion for innovation, a love for learning, and a des
 ## 🌐 Connect & Collaborate!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjosef33@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josef-tan/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseftanlang)
+[![Profile Views](https://komarev.com/ghpvc/?username=joseftanlang&color=blue&style=flat-square)](https://github.com/joseftanlang)
 
 ---
 
